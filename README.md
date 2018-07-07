@@ -20,3 +20,30 @@
 ### Week02
 - Linear and Logistic Regression
 - Variable sharing and managing experiments
+
+### Week03
+- Introduction to ConvNet
+- ConvNet in TensorFlow
+
+### Week04
+- Models : Inception and slim
+
+### Week05
+- Style Transfer
+
+### Week06
+- Generative Model
+	- Generative Adversarial Networks
+	- Variational Auto-Encoder
+
+### Week07
+- Recurrent Neural Netowrks
+
+### Week08
+- Seq2Seq with Attention
+
+### Week09
+- Audio Recognition
+
+### Week10
+- Model : Show and Tell
