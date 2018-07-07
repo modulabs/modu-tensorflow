@@ -15,6 +15,7 @@
 ---
 ### Week01
 - Overview and Operations
+	- [01_hello_TF.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/01_hello_TF.ipynb)
 
 ### Week02
 - Linear and Logistic Regression
