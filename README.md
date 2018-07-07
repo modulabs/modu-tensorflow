@@ -6,6 +6,16 @@
 	- Syllabus : http://web.stanford.edu/class/cs20si/syllabus.html
 	- Repository : https://github.com/chiphuyen/stanford-tensorflow-tutorials
 
+- Tensorflow tutorials
+
+	- Simple Audio Recognition, Recurrent Neural Networks, Seq2Seq with Attention
+	- Link : https://www.tensorflow.org/tutorials/
+
+- Models and examples built with TensorFlow
+
+	-  Inception, slim, Show and Tell
+	-  Repository : https://github.com/tensorflow/models/research
+
 ---
 ### Week01
 - Overview and Operations
