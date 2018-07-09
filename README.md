@@ -3,22 +3,26 @@
 아래의 참고자료를 기반으로 작성하고 있습니다.
 
 - **CS 20: Tensorflow for Deep Learning Research**
-	- Syllabus : http://web.stanford.edu/class/cs20si/syllabus.html
-	- Repository : https://github.com/chiphuyen/stanford-tensorflow-tutorials
+  - Syllabus : http://web.stanford.edu/class/cs20si/syllabus.html
+  - Repository : https://github.com/chiphuyen/stanford-tensorflow-tutorials
 - **Tensorflow tutorials**
-	- Simple Audio Recognition, Recurrent Neural Networks, Seq2Seq with Attention
-	- Link : https://www.tensorflow.org/tutorials/
+  - Simple Audio Recognition, Recurrent Neural Networks, Seq2Seq with Attention
+  - Link : https://www.tensorflow.org/tutorials/
 - **Models and examples built with TensorFlow**
-	-  Inception, slim, Show and Tell
-	-  Repository : https://github.com/tensorflow/models/research
+  -  Inception, slim, Show and Tell
+  -  Repository : https://github.com/tensorflow/models/research
 
 ---
 ### Week01
 - Overview and Operations
-	- [01_hello_TF.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/01_hello_TF.ipynb)
+  - [01_hello_TF.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/01_hello_TF.ipynb)
 
 ### Week02
 - Linear and Logistic Regression
+  - [01_linear_regression.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/01_linear_regression.ipynb)
+  - [02_linear_regression_with_batch.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/02_linear_regression_with_batch.ipynb)
+  - [03_linear_regression_with_batch_tf_losses.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/03_linear_regression_with_batch_tf_losses.ipynb)
+
 - Variable sharing and managing experiments
 
 ### Week03
@@ -33,8 +37,8 @@
 
 ### Week06
 - Generative Model
-	- Generative Adversarial Networks
-	- Variational Auto-Encoder
+  - Generative Adversarial Networks
+  - Variational Auto-Encoder
 
 ### Week07
 - Recurrent Neural Netowrks
