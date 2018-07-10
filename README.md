@@ -22,7 +22,8 @@
   - [01_linear_regression.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/01_linear_regression.ipynb)
   - [02_linear_regression_with_batch.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/02_linear_regression_with_batch.ipynb)
   - [03_linear_regression_with_batch_tf_losses.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/03_linear_regression_with_batch_tf_losses.ipynb)
-
+- `tf.data`
+  - [05_tf_data_ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/05_tf_data.ipynb)
 - Variable sharing and managing experiments
 
 ### Week03
@@ -41,7 +42,7 @@
   - Variational Auto-Encoder
 
 ### Week07
-- Recurrent Neural Netowrks
+- Recurrent Neural Networks
 
 ### Week08
 - Seq2Seq with Attention
