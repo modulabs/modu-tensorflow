@@ -4,3 +4,6 @@
 # ipython notebook checkpoints
 week??/.ipynb_checkpoints
 week??/graphs
+
+# pre-trained model checkpoints
+checkpoints

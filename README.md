@@ -41,6 +41,7 @@
 
 ### Week04
 - Models : Inception and slim
+  - [01_vgg_slim.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week04/01_vgg_slim.ipynb)
 
 ### Week05
 - Style Transfer
