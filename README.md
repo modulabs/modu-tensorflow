@@ -45,6 +45,7 @@
 
 ### Week05
 - Style Transfer
+  - [01_style_transfer.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week05/01_style_transfer.ipynb)
 
 ### Week06
 - Generative Model
