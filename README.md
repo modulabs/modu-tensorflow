@@ -36,6 +36,8 @@
 ### Week03
 - Introduction to ConvNet
 - ConvNet in TensorFlow
+  - [01_mnist_cnn_with_tf_layers.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/01_mnist_cnn_with_tf_layers.ipynb)
+  - [02_mnist_cnn_with_slim.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/02_mnist_cnn_with_slim.ipynb)
 
 ### Week04
 - Models : Inception and slim
