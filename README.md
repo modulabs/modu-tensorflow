@@ -20,23 +20,28 @@
 ### Week01
 - Overview and Operations
   - [01_hello_TF.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/01_hello_TF.ipynb)
+  - [02_linear_regression_with_batch.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/02_linear_regression_with_batch.ipynb)
+  - [03_tensorboard.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/03_tensorboard.ipynb)
+  - [04_TF_dimension.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/04_TF_dimension.ipynb)
+  - [05_tf.Variable.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/05_tf.Variable.ipynb)
+  - [06_tf.placeholder.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/06_tf.placeholder.ipynb)
 
 ### Week02
 - Linear Regression
   - [01_linear_regression.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/01_linear_regression.ipynb)
   - [02_linear_regression_with_batch.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/02_linear_regression_with_batch.ipynb)
-  - [03_linear_regression_with_batch_tf_losses.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/03_linear_regression_with_batch_tf_losses.ipynb)
+  - [03_linear_regression_with_batch_tf.losses.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/03_linear_regression_with_batch_tf.losses.ipynb)
 - `tf.data`
   - [05_tf.data.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/05_tf.data.ipynb)
 - Logistic Regression
   - [06_logistic_regression.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/06_logistic_regression.ipynb)
-  - [07_logistic_regression_with_tf_data.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/07_logistic_regression_with_tf_data.ipynb)
+  - [07_logistic_regression_with_tf.data.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week02/07_logistic_regression_with_tf.data.ipynb)
 - Variable sharing and managing experiments
 
 ### Week03
 - Introduction to ConvNet
 - ConvNet in TensorFlow
-  - [01_mnist_cnn_with_tf_layers.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/01_mnist_cnn_with_tf_layers.ipynb)
+  - [01_mnist_cnn_with_tf.layers.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/01_mnist_cnn_with_tf.layers.ipynb)
   - [02_mnist_cnn_with_slim.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/02_mnist_cnn_with_slim.ipynb)
   - [03_tf.train.Saver.save.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/03_tf.train.Saver.save.ipynb)
   - [04_tf.train.Saver.restore.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/04_tf.train.Saver.restore.ipynb)
