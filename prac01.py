@@ -1,1 +1,1 @@
-prin('aa')
+print('aaa')
