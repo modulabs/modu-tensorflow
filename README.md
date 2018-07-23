@@ -20,7 +20,7 @@
 ### Week01
 - Overview and Operations
   - [01_hello_TF.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/01_hello_TF.ipynb)
-  - [02_linear_regression_with_batch.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/02_linear_regression_with_batch.ipynb)
+  - [02_TF_eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/02_TF_eager.ipynb)
   - [03_tensorboard.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/03_tensorboard.ipynb)
   - [04_TF_dimension.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/04_TF_dimension.ipynb)
   - [05_tf.Variable.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/05_tf.Variable.ipynb)
@@ -54,6 +54,7 @@
 ### Week05
 - Style Transfer
   - [01_style_transfer.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week05/01_style_transfer.ipynb)
+  - [02_style_transfer.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week05/02_style_transfer.ipynb)
 
 ### Week06
 - Generative Model
