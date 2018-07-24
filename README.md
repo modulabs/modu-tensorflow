@@ -46,6 +46,7 @@
   - [03_tf.train.Saver.save.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/03_tf.train.Saver.save.ipynb)
   - [04_tf.train.Saver.restore.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/04_tf.train.Saver.restore.ipynb)
   - [05_mnist_cnn_with_train_validation_split.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/05_mnist_cnn_with_train_validation_split.ipynb)
+  - [06_mnist_cnn_with_batch_norm_and_regularizer.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/06_mnist_cnn_with_batch_norm_and_regularizer.ipynb)
 
 ### Week04
 - Models : Inception and slim
