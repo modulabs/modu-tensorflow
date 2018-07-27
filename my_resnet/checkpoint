@@ -1,0 +1,6 @@
+model_checkpoint_path: "resnet.ckpt-65625"
+all_model_checkpoint_paths: "resnet.ckpt-58125"
+all_model_checkpoint_paths: "resnet.ckpt-60000"
+all_model_checkpoint_paths: "resnet.ckpt-61875"
+all_model_checkpoint_paths: "resnet.ckpt-63750"
+all_model_checkpoint_paths: "resnet.ckpt-65625"
