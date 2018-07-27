@@ -20,7 +20,7 @@
 ### Week01
 - Overview and Operations
   - [01_hello_TF.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/01_hello_TF.ipynb)
-  - [02_linear_regression_with_batch.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/02_linear_regression_with_batch.ipynb)
+  - [02_TF_eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/02_TF_eager.ipynb)
   - [03_tensorboard.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/03_tensorboard.ipynb)
   - [04_TF_dimension.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/04_TF_dimension.ipynb)
   - [05_tf.Variable.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week01/05_tf.Variable.ipynb)
@@ -45,6 +45,8 @@
   - [02_mnist_cnn_with_slim.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/02_mnist_cnn_with_slim.ipynb)
   - [03_tf.train.Saver.save.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/03_tf.train.Saver.save.ipynb)
   - [04_tf.train.Saver.restore.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/04_tf.train.Saver.restore.ipynb)
+  - [05_mnist_cnn_with_train_validation_split.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/05_mnist_cnn_with_train_validation_split.ipynb)
+  - [06_mnist_cnn_with_batch_norm_and_regularizer.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week03/06_mnist_cnn_with_batch_norm_and_regularizer.ipynb)
 
 ### Week04
 - Models : Inception and slim
@@ -53,6 +55,7 @@
 ### Week05
 - Style Transfer
   - [01_style_transfer.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week05/01_style_transfer.ipynb)
+  - [02_style_transfer.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week05/02_style_transfer.ipynb)
 
 ### Week06
 - Generative Model
