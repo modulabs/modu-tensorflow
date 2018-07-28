@@ -7,3 +7,6 @@ week??/graphs
 
 # pre-trained model checkpoints
 checkpoints
+
+# data dir
+data
