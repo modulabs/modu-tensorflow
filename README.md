@@ -51,6 +51,8 @@
 ### Week04
 - Models : Inception and slim
   - [01_vgg_slim.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week04/01_vgg_slim.ipynb)
+  - [02_tfrecords.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week04/02_tfrecords.ipynb)
+  - [03_transfer_learning_inception_v3.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week04/03_transfer_learning_inception_v3.ipynb)
 
 ### Week05
 - Style Transfer
