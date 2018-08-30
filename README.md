@@ -62,13 +62,19 @@
 ### Week06
 - Generative Model
   - Generative Adversarial Networks
+    - [01_dcgan.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week06/01_dcgan.ipynb)
+    - [02_cgan.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week06/02_cgan.ipynb)
   - Variational Auto-Encoder
 
 ### Week07
 - Recurrent Neural Networks
+  - [01_many_to_one_classification.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week07/01_many_to_one_classification.ipynb)
+  - [02_many_to_many_classification.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week07/02_many_to_many_classification.ipynb)
 
 ### Week08
 - Seq2Seq with Attention
+  - [01_seq2seq.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week08/01_seq2seq.ipynb)
+  - [02_seq2seq_with_attention.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week08/02_seq2seq_with_attention.ipynb)
 
 ### Week09
 - Audio Recognition
