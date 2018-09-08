@@ -77,7 +77,8 @@
   - [02_seq2seq_with_attention.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week08/02_seq2seq_with_attention.ipynb)
 
 ### Week09
-- Audio Recognition
+- Model : Show and Tell
 
 ### Week10
-- Model : Show and Tell
+- Model : Pix2Pix
+  - [pix2pix.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow/blob/master/week10/pix2pix.ipynb)
